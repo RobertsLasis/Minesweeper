@@ -1,0 +1,11 @@
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Minesweeper.resources
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\R0bs\Desktop\Repositoriji\Codelex\csharp-basics\exercises\MiniProjects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
